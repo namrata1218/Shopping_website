@@ -80,7 +80,7 @@ const ProductCard: React.FC<propsType> = ({
         }
     }
   return (
-    <div className='  px-4 rounded-xl max-w-[400px] h-[400px]'  style={{ border: '1px solid #d1d5db' }}>
+    <div className=' px-4 rounded-xl max-w-[400px] h-[400px]'  style={{ border: '1px solid #d1d5db' }}>
 
       <div className="w-[200px] h-[200px] mt-4">
         <Image  
